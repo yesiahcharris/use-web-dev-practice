@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Web Design Code/Week 4"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "use-web-dev-practice"
+	}
+}
