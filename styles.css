@@ -20,9 +20,15 @@ p {
     background-color: white;
 }
 
+.card-container {
+    display: flex;
+    gap: 30px;
+    
+}
+
 .card {
     background-color: red;
     padding: 20px;
     margin: 10px;
-    border: 2px solid gray;
+    border: 2px solid white;
 }
