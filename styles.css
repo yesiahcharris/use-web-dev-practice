@@ -23,6 +23,7 @@ p {
 }
 .highlight {
     background-color: white;
+    border-radius: 5px;
 }
 
 .card-container {
