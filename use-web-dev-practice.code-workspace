@@ -8,6 +8,7 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "use-web-dev-practice"
+		"liveServer.settings.multiRootWorkspaceName": "use-web-dev-practice",
+		"liveServer.settings.port": 5501
 	}
 }
